@@ -1,0 +1,41 @@
+# Environment variables
+.env
+
+# Generated files directories
+screenshots/
+cropped/
+screenshots-quotes/
+
+# Compiled binaries
+screenshot-capture
+crop-ocr
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output coverage
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+output.txt
