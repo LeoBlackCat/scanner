@@ -39,3 +39,5 @@ Thumbs.db
 
 # Output files
 output.txt
+output.md
+chapter_*.md
